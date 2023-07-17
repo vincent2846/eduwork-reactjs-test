@@ -12,8 +12,8 @@ export default class Komponen extends React.Component{
                 {/* <ClassComponent nama="Vincent N"/> */}
                 {/* <FunctionalComponent nama="Vincent N"/> */}
                 {/* <FunctionalComponent/> */}
-                {/* <TestComponent /> */}
-                <Porto />
+                <TestComponent />
+                {/* <Porto /> */}
             </div>
         )
     }
