@@ -5,14 +5,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default  class Porto extends React.Component{
 
-
     render (){
         return(
             <div>
                 
                 <section id="mainsection">
                     <nav>
-                        <a href="#" class="logo">Vincent Novianto</a>
+                        <p>Vincent Novianto</p>
                     </nav>
 
 
@@ -24,12 +23,8 @@ export default  class Porto extends React.Component{
                     </div>
 
                 </section>
-
-
                 <div class="about-container">
-    
-                    {/* <image src="./assets/Foto profil.jfif" alt=""> */}
-                    <img src="assets/Foto profil.jfif" />
+                    {/* <img src="assets/Foto profil.jfif" /> */}
                     <div class="about-text-container">
                         <p>About Me</p>
                         <p>Computer Science</p>
@@ -134,7 +129,7 @@ export default  class Porto extends React.Component{
                     <div class="porto">
                         
                         
-                        <a href="https://vincentnovianto.github.io/YBIKEProject/">
+                        <p>
                             <div class="card">
                                 <div class="card-image" id="cardimg1"></div>
                                 <div class="card-text">
@@ -149,9 +144,9 @@ export default  class Porto extends React.Component{
                                 
                 
                             </div>
-                        </a>
+                        </p>
                      
-                        <a href="https://www.figma.com/proto/ivoMAI9TBt59sjomwCwL5G/prototyping-HCI?page-id=0%3A1&node-id=2%3A850&viewport=241%2C48%2C0.26&scaling=min-zoom&starting-point-node-id=2%3A850" >
+                        <p>
                             <div class="card">
                                 <div class="card-image" id="cardimg2"></div>
                                 <div class="card-text">
@@ -165,10 +160,10 @@ export default  class Porto extends React.Component{
                                 
                 
                             </div>
-                        </a>
+                        </p>
 
 
-                        <a href="https://www.figma.com/proto/nTPdc1WZTf8Ma1G4UFFwLk/Warga-Negara-Indonesia?page-id=0%3A1&node-id=36%3A340&viewport=241%2C48%2C0.21&scaling=min-zoom&starting-point-node-id=36%3A340">
+                        <p>
                             <div class="card">
                                 <div class="card-image" id="cardimg3"></div>
                                 <div class="card-text">
@@ -182,7 +177,7 @@ export default  class Porto extends React.Component{
                                 
                 
                             </div>
-                        </a> 
+                        </p> 
                             
 
                         
