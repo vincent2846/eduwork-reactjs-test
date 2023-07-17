@@ -190,11 +190,6 @@ export default  class Porto extends React.Component{
                     </div> 
 
                 </main>
-
-
-
-                <script src="./js/script"></script>
-
             </div>
 
             
