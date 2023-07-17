@@ -1,7 +1,6 @@
 import React from "react";
 import './css/style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './vendor/bootstrap/css/bootstrap.min.css';
 
 
 export default  class Porto extends React.Component{
